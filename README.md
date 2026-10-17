@@ -266,3 +266,5 @@ Give a ⭐️ if this project helped you!
 ---
 
 **Disclaimer**: This tool is for educational and research purposes. Always verify critical information through multiple sources. Deepfake detection is an evolving field, and no detector is 100% accurate.
+
+<!-- test commit from Colab -->
